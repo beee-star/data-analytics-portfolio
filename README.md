@@ -1,2 +1,2 @@
 # data-analytics-portfolio
-My data analytics projects using Excel and other analytical tools
+A collection of data analytics projects demonstrating practical skills in Microsoft Excel, data cleaning, data analysis, PivotTables, formulas and data visualisation.
